@@ -30,7 +30,7 @@ Olá! Sou um desenvolvedor em formação, apaixonado por tecnologia, com experi�
 
 - 📧 [gustavomachadoespindola49@gmail.com](mailto:gustavomachadoespindola49@gmail.com)  
 - 📱 (22) 98847-9687 | (22) 98826-0820  
-- 💼 [LinkedIn)](https://www.linkedin.com/in/gustavo-machado7/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-machado7/)
 
 ---
 
