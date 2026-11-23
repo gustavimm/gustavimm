@@ -1,45 +1,55 @@
 # 👨‍💻 Gustavo Machado Espíndola
 
-Olá! Sou estudante de Engenharia de Software e um profissional em transição para a área de **Quality Assurance (QA)**. 
+Olá! Sou estudante de Engenharia de Software (Estácio, formatura prevista para 2028) e desenvolvedor front-end e full stack em formação, em busca do meu primeiro estágio em desenvolvimento.
 
-Com vivência na linha de frente do atendimento ao cliente e resolução de problemas operacionais de provedores de internet, desenvolvi uma visão crítica apurada para a jornada do usuário. Meu foco é construir e testar softwares que não apenas funcionem no "caminho feliz", mas que sejam à prova de falhas, *edge cases* e do comportamento imprevisível do mundo real.
-
----
-
-## 🎯 Sobre Mim
-
-- 📍 Cachoeiras de Macacu, RJ - Brasil  
-- 🎓 Estudante de Engenharia de Software - Estácio  
-- 🐛 Foco atual: Testes de Software, Prevenção de Bugs, Lógica de Programação e Regras de Negócio.  
-- 💻 Tech: JavaScript (Vanilla), Node.js, Express, HTML, CSS, Git.  
-- 💡 Comunicativo, investigativo e obcecado por entender "como" e "por que" as coisas quebram.  
-- 🎸 Nas horas vagas: Praticando Karate, estudando aberturas de xadrez, ou com o violão na mão tentando acertar "Neon" e "Stop This Train" do John Mayer.
+Vim da área comercial, onde vi de perto os problemas reais de uma operação de vendas. Isso me deu visão de negócio e de usuário: gosto de entender o problema antes de escrever a primeira linha de código.
 
 ---
 
-## 🧠 Habilidades & Foco em QA
+## 🎯 Sobre mim
 
-- ✅ **Mapeamento de Regras de Negócio** e entendimento de requisitos.
-- ✅ **Prevenção de Falhas (Edge Cases):** Identificação de comportamentos anômalos em regras de horários e concorrência.
-- ✅ **Programação Defensiva:** Implementação de sistemas de *Rollback* (tolerância a falhas do usuário).
-- ✅ **Desenvolvimento de APIs REST** com Node.js e Express.
-- ✅ Resolução ágil de problemas operacionais e tradução de "dores" de negócio em código.
+- 📍 Cachoeiras de Macacu, RJ - Brasil
+- 🎓 Engenharia de Software - Estácio
+- 🛠️ Cofundador e responsável técnico da Órbita, software house para pequenas empresas
+- 🔎 Curioso, gosto de entender o "como" e o "porquê" das coisas e de testar o que construo
+- 🥋🎸♟️ Nas horas vagas: karatê, xadrez e violão (ainda tentando acertar "Neon" do John Mayer)
 
 ---
 
-## 🚀 Projeto de Destaque
+## 🧰 Tecnologias
 
-🏆 **[AmoFila - API e Painel de Gerenciamento de Filas](https://github.com/gustavimm/amofila-api)** *Desenvolvido para resolver um gargalo real na operação de vendas da AMO INTERNET.*
-* **Visão QA:** Implementação de travas de segurança contra "vendas fantasmas", correção de bugs de virada de turno (Módulo Array) e sistema de desfazer ações (*Rollback*) para evitar corrupção do histórico de vendas.
+- **Front-end:** React, JavaScript, HTML, CSS, Tailwind CSS
+- **Back-end e dados:** Node.js, Express, Firebase (Auth e Firestore)
+- **Ferramentas:** Git, GitHub, Vite
+- **Análise de dados:** Excel, Google Sheets, Power BI e SQL (em estudo)
+- **Estudando agora:** Python e uso de APIs de modelos de IA (LLMs)
 
-*(Outros projetos focados em testes e automação em breve!)*
+---
+
+## 🚀 Projeto de destaque
+
+### [Sales Commission CRM (demo)](https://github.com/gustavimm/sales-commission-crm)
+
+CRM de vendas e comissão com login por papéis (admin, gestor e vendedor), metas com ranking e comissão por faixas, calculada por ciclo de apuração. Nasceu de um problema real: um time de vendas que controlava tudo em planilhas. A versão original foi usada por 8 vendedores no dia a dia, e esta demo tem dados 100% fictícios.
+
+**Stack:** React, Vite, Tailwind CSS e Firebase.
+
+**O que aprendi:**
+- Segurança tem que ficar no servidor: migrei de permissões no front para um campo `role` com regras do Firestore.
+- Anonimizar dados antes de publicar dá mais trabalho do que parece.
+- Uso IA para acelerar, mas confiro o que ela entrega.
+
+---
+
+## 🧠 IA no meu dia a dia
+
+Uso IA como assistente para escrever, revisar e entender código, sempre testando e validando o resultado. Estou aprofundando o uso de APIs de modelos de linguagem para criar pequenos projetos práticos.
 
 ---
 
 ## 📬 Vamos nos conectar?
 
-Estou aberto a feedbacks, bate-papos sobre qualidade de software e minha primeira oportunidade como QA Júnior!
+Estou aberto a feedbacks, trocas de ideia e à minha primeira oportunidade como estagiário em desenvolvimento (front-end, full stack ou IA).
 
-- 📧 [gustavomachadoespindola49@gmail.com](mailto:gustavomachadoespindola49@gmail.com)  
-- 📱 (22) 98847-9687 | (22) 98826-0820  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-machado7/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-machado7)
+- ✉️ gustavomachadoespindola49@gmail.com
